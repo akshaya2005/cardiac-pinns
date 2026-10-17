@@ -1,0 +1,18 @@
+.DS_Store
+
+# Python
+backend/.venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Generated cache (regenerated on demand, not source)
+backend/data/
+
+# Node / frontend
+pinn-visualization/node_modules/
+pinn-visualization/dist/
+
+# Editor
+.vscode/
+.idea/
